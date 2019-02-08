@@ -22,6 +22,7 @@ namespace Windows_Queues
             }
             Console.WriteLine();
             Console.WriteLine();
+            Console.WriteLine();
             Console.WriteLine("The number of elements in the Queue " + qt.Count);
             Console.WriteLine("Dose the Queue contain " + qt.Contains(3));
             Console.ReadKey();
